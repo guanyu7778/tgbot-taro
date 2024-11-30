@@ -6,3 +6,4 @@ The project includes: Telegram bot API call method case and Langchain agent case
 
 [TelegramBot](https://t.me/tarotrues_bot)
 or you can scan this QRcode
+[](https://github.com/guanyu7778/tgbot-taro/raw/main/img.jpg)
